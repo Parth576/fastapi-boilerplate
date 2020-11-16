@@ -1,6 +1,6 @@
-# Proctoring-Backend
+# FastAPI-Boilerplate 
 
-This is the backend for an unsupervised online proctoring system
+Boilerplate to quickly get started with FastAPI projects
 
 ## Setup
 
